@@ -1,7 +1,7 @@
 ## Hi there 👋
 I’m Laura, a Barcelona-based graphic artist and web programming student.
 Passionate about art and technology🔭, I’m constantly seeking ways to integrate creativity with digital tools to explore new forms of visual expression. 
-I love learning and applying innovative techniques that help me continually grow in the creative field.
+I love learning and applying innovative techniques that help me continually grow.
 
 <!--
 **L4u74PM/L4u74PM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
