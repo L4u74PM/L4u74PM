@@ -35,9 +35,6 @@ Currently Learning: Development with Kotlin
 - Creative coding
 - Visual experimentation
 
-### 📫 Let's Connect
-
-Feel free to reach out if you want to collaborate on creative projects or just chat about art and tech!
 
 ---
 
