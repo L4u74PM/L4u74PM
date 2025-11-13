@@ -1,19 +1,44 @@
-## Hi there 👋
-I’m Laura, a Barcelona-based graphic artist and web programming student.
-Passionate about art and technology🔭, I’m constantly seeking ways to integrate creativity with digital tools to explore new forms of visual expression. 
-I love learning and applying innovative techniques that help me continually grow.
+# Hi there 👋 I'm Laura
 
-<!--
-**L4u74PM/L4u74PM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎨 Graphic Artist & Web Developer
 
-Here are some ideas to get you started:
+Barcelona-based creative technologist passionate about bridging art and code. Currently studying web programming while exploring the intersection of visual design and digital innovation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💫 About Me
+
+- 🎨 **Graphic Artist** with a love for visual storytelling
+- 💻 **Web Programming Student** constantly learning new technologies
+- 🔭 **Creative Explorer** integrating art with digital tools
+- 🌱 Always seeking innovative techniques to grow and evolve
+- 📍 Based in Barcelona, Spain
+
+### 🛠️ Tech & Tools
+
+```
+Design: Adobe Creative Suite, Figma, Illustrator
+Frontend: HTML, CSS, XML
+Programming: Kotlin
+Currently Learning: Development with Kotlin
+```
+
+### 🎯 What I'm Working On
+
+- Exploring new forms of visual expression through code
+- Building creative web experiences
+- Combining graphic design principles with web development
+
+### 🌟 Interests
+
+- Generative art
+- Interactive design
+- UI/UX innovation
+- Creative coding
+- Visual experimentation
+
+### 📫 Let's Connect
+
+Feel free to reach out if you want to collaborate on creative projects or just chat about art and tech!
+
+---
+
+*"Where creativity meets code"* ✨
