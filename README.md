@@ -29,7 +29,7 @@ Currently Learning: Development with Kotlin
 
 ### 🌟 Interests
 
-- Generative art
+- Art
 - Interactive design
 - UI/UX innovation
 - Creative coding
